@@ -208,6 +208,7 @@ If you want to contribute, create a PR or contact me [@ottosulin](https://mastod
 * [Future AGI](https://github.com/future-agi/future-agi) - _Open-source self-hostable platform with built-in real-time guardrails for unsafe outputs (jailbreak, PII, injection, toxicity), evals, tracing, simulations, and gateway for LLM and agent applications._
 
 ### Agent Runtime Security & Sandboxing
+* [fivedrisk](https://github.com/theDoc001/fivedrisk) - Per-action risk scoring and governance for AI agents. Deterministic 5D scoring, Markov SafetyDrift detection, injection/leakage scanners, audit log + NDJSON event stream, LangGraph and Claude Agent SDK integrations. Apache-2.0. [[PyPI](https://pypi.org/project/fivedrisk/)]
 * [OpenShell](https://github.com/NVIDIA/OpenShell) - _OpenShell is the safe, private runtime for autonomous AI agents. It provides sandboxed execution environments governed by declarative YAML policies that prevent unauthorized file access, data exfiltration, and uncontrolled network activity._
 * [OpenSandbox](https://github.com/alibaba/OpenSandbox) - _Secure, Fast, and Extensible Sandbox runtime for AI agents. Multi-language SDKs, Docker/Kubernetes runtimes, gVisor/Kata Containers/Firecracker isolation. CNCF Landscape project._
 * [CubeSandbox](https://github.com/TencentCloud/CubeSandbox) - _Instant, concurrent, secure & lightweight sandbox for AI agents by Tencent Cloud. Sub-60ms cold start, <5MB memory overhead, E2B SDK compatible. Built on RustVMM and KVM with extreme isolation (dedicated kernel + eBPF)._
